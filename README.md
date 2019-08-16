@@ -2,6 +2,9 @@
 
 > 可左右滑动的为你推荐列表
 
+## demo预览
+[demo](https://misszhoudada.github.io/vSwiper/#/)
+
 ## Build Setup
 
 ``` bash
