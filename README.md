@@ -1,6 +1,6 @@
 # swiper
 
-> A Vue.js project
+> 可左右滑动的为你推荐列表
 
 ## Build Setup
 
