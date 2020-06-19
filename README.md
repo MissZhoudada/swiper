@@ -3,7 +3,7 @@
 > 可左右滑动的为你推荐列表
 
 ## demo预览
-[demo](https://misszhoudada.github.io/vSwiper/#/)
+[demo](http://47.102.137.103:8080/#/)
 
 ## Build Setup
 
